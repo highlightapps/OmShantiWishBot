@@ -264,7 +264,7 @@
 		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/01.05.20-Mal.pdf",
 		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-05-01.mp3"
 	},
-		"02_05_2020": {
+	"02_05_2020": {
 		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/02.05.20-h.pdf",
 		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/02.05.20-E.pdf",
 		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/02.05.20-Telugu.pdf",
@@ -533,5 +533,284 @@
 		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/31.05.20-Tamil.pdf",
 		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/31.05.20-Mal.pdf",
 		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-05-31.mp3"
+	},
+	"01_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/01.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/01.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/01.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/01.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/01.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/01.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-01.mp3"
+	},
+	"02_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/02.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/02.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/02.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/02.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/02.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/02.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-02.mp3"
+	},
+	"03_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/03.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/03.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/03.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/03.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/03.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/03.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-03.mp3"
+	},
+	"04_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/04.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/04.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/04.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/04.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/04.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/04.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-04.mp3"
+	},
+	"05_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/05.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/05.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/05.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/05.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/05.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/05.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-05.mp3"
+	},
+	"06_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/06.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/06.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/06.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/06.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/06.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/06.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-06.mp3"
+	},
+	"07_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/07.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/07.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/07.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/07.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/07.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/07.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-07.mp3"
+	},
+	"08_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/08.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/08.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/08.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/08.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/08.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/08.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-08.mp3"
+	},
+	"09_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/09.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/09.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/09.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/09.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/09.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/09.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-09.mp3"
+	},
+	"10_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/10.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/10.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/10.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/10.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/10.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/10.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-10.mp3"
+	},
+	"11_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/11.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/11.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/11.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/11.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/11.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/11.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-11.mp3"
+	},
+	"12_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/12.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/12.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/12.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/12.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/12.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/12.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-12.mp3"
+	},
+	"13_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/13.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/13.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/13.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/13.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/13.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/13.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-13.mp3"
+	},
+	"14_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/14.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/14.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/14.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/14.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/14.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/14.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-14.mp3"
+	},
+	"15_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/15.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/15.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/15.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/15.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/15.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/15.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-15.mp3"
+	},
+	"16_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/16.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/16.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/16.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/16.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/16.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/16.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-16.mp3"
+	},
+	"17_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/17.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/17.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/17.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/17.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/17.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/17.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-17.mp3"
+	},
+	"18_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/18.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/18.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/18.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/18.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/18.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/18.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-18.mp3"
+	},
+	"19_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/19.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/19.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/19.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/19.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/19.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/19.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-19.mp3"
+	},
+	"20_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/20.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/20.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/20.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/20.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/20.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/20.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-20.mp3"
+	},
+	"21_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/21.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/21.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/21.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/21.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/21.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/21.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-21.mp3"
+	},
+	"22_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/22.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/22.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/22.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/22.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/22.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/22.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-22.mp3"
+	},
+	"23_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/23.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/23.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/23.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/23.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/23.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/23.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-23.mp3"
+	},
+	"24_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/24.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/24.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/24.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/24.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/24.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/24.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-24.mp3"
+	},
+	"25_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/25.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/25.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/25.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/25.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/25.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/25.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-25.mp3"
+	},
+	"26_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/26.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/26.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/26.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/26.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/26.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/26.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-26.mp3"
+	},
+	"27_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/27.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/27.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/27.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/27.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/27.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/27.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-27.mp3"
+	},
+	"28_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/28.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/28.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/28.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/28.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/28.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/28.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-28.mp3"
+	},
+	"29_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/29.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/29.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/29.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/29.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/29.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/29.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-29.mp3"
+	},
+	"30_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/30.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/30.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/30.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/30.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/30.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/30.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-30.mp3"
+	},
+	"31_06_2020": {
+		"hindi": "http://www.babamurli.com/01.%20Daily%20Murli/01.%20Hindi/02.%20Hindi%20Murli%20-%20Pdf/31.06.20-h.pdf",
+		"english": "http://www.babamurli.com/01.%20Daily%20Murli/02.%20English/02.%20Eng%20Murli%20-%20Pdf/31.06.20-E.pdf",
+		"telugu": "http://www.babamurli.com/01.%20Daily%20Murli/04.%20Telugu/02.%20Telugu%20-%20Murli%20-%20Pdf/31.06.20-Telugu.pdf",
+		"kannada": "http://www.babamurli.com/01.%20Daily%20Murli/05.%20Kannada/02.%20Kannada%20Murli%20-%20Pdf/31.06.20-K.pdf",
+		"tamil": "http://www.babamurli.com/01.%20Daily%20Murli/03.%20Tamil/02.%20Tamil%20Murli%20-%20Pdf/31.06.20-Tamil.pdf",
+		"malayalam": "http://www.babamurli.com/01.%20Daily%20Murli/06.%20Malayalam/02.%20Malayalam%20Murli%20-%20Pdf/31.06.20-Mal.pdf",
+		"telugu-audio": "https://madhubanmurli.org/murlis/te/mp3/murli-2020-06-31.mp3"
 	}
 }
