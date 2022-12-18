@@ -1,9 +1,9 @@
 {
-	"com.kaipa.thoughtfortheday": {
+	"com.kaipa.thoughtfortheday.qa": {
 		"versionCode": 36,
 		"isForcedUpdate": false
 	},
-	"com.kaipa.chitchatwithmaharathis": {
+	"com.kaipa.chitchatwithmaharathis.qa": {
 		"versionCode": 90,
 		"isForcedUpdate": false
 	}
