@@ -6,5 +6,10 @@
 	"com.kaipa.chitchatwithmaharathis": {
 		"versionCode": 90,
 		"isForcedUpdate": false
+	},
+	"com.kaipa.brahmakumariswallpaper": {
+		"versionCode": 10,
+		"isForcedUpdate": false
 	}
+	
 }
