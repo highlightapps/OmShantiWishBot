@@ -10,6 +10,10 @@
 	"com.kaipa.brahmakumariswallpaper.qa": {
 		"versionCode": 10,
 		"isForcedUpdate": false
+	},
+	"com.kaipa.mathtablesbook.qa": {
+		"versionCode": 19,
+		"isForcedUpdate": false
 	}
 
 }
