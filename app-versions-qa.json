@@ -14,6 +14,11 @@
 	"com.kaipa.mathtablesbook.qa": {
 		"versionCode": 19,
 		"isForcedUpdate": false
+	},
+	"com.kaipa.bkhintoengdictionary.qa": {
+		"versionCode": 14,
+		"isForcedUpdate": false
 	}
+	
 
 }
